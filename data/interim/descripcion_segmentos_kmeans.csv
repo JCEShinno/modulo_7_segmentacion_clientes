@@ -1,0 +1,4 @@
+cluster_kmeans,descripcion_segmento
+0,"El clúster 0 concentra el 43.4% de los clientes, con edad promedio de 56.8 años, experiencia laboral promedio de 1.1 y tamaño familiar promedio de 2.7. Su perfil modal corresponde a género Male, estado civil previo Yes, graduación Yes, profesión Artist y nivel de gasto Average."
+1,"El clúster 1 concentra el 37.0% de los clientes, con edad promedio de 31.8 años, experiencia laboral promedio de 0.9 y tamaño familiar promedio de 3.1. Su perfil modal corresponde a género Male, estado civil previo No, graduación No, profesión Healthcare y nivel de gasto Low."
+2,"El clúster 2 concentra el 19.6% de los clientes, con edad promedio de 36.9 años, experiencia laboral promedio de 8.1 y tamaño familiar promedio de 2.5. Su perfil modal corresponde a género Female, estado civil previo No, graduación Yes, profesión Artist y nivel de gasto Low."

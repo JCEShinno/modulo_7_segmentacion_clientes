@@ -1,0 +1,4 @@
+cluster_kmeans,cantidad_clientes,porcentaje,Age,Work_Experience,Family_Size,moda_Gender,moda_Ever_Married,moda_Graduated,moda_Profession,moda_Spending_Score,moda_Var_1
+0,1140,0.434,56.786,1.105,2.731,Male,Yes,Yes,Artist,Average,Cat_6
+1,972,0.37,31.8,0.878,3.136,Male,No,No,Healthcare,Low,Cat_6
+2,515,0.196,36.936,8.109,2.458,Female,No,Yes,Artist,Low,Cat_6

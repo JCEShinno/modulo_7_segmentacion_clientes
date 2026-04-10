@@ -1,0 +1,12 @@
+columna,nulos,tipo_dato
+ID,0,int64
+Gender,0,str
+Ever_Married,50,str
+Age,0,int64
+Graduated,24,str
+Profession,38,str
+Work_Experience,269,float64
+Spending_Score,0,str
+Family_Size,113,float64
+Var_1,32,str
+Segmentation,0,str

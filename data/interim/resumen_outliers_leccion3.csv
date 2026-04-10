@@ -1,0 +1,5 @@
+variable,Q1,Q3,IQR,limite_inferior,limite_superior,cantidad_outliers_detectados
+Age,30.0,53.0,23.0,-4.5,87.5,19
+Work_Experience,0.0,4.0,4.0,-6.0,10.0,58
+Family_Size,2.0,4.0,2.0,-1.0,7.0,31
+Spending_Score_Ordinal,0.0,1.0,1.0,-1.5,2.5,0

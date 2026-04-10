@@ -1,0 +1,12 @@
+columna,usar_en_modelado,comentario
+ID,False,"Identificador, excluir"
+Gender,True,Candidata para preprocesamiento y clustering
+Ever_Married,True,Candidata para preprocesamiento y clustering
+Age,True,Candidata para preprocesamiento y clustering
+Graduated,True,Candidata para preprocesamiento y clustering
+Profession,True,Candidata para preprocesamiento y clustering
+Work_Experience,True,Candidata para preprocesamiento y clustering
+Spending_Score,True,Candidata para preprocesamiento y clustering
+Family_Size,True,Candidata para preprocesamiento y clustering
+Var_1,True,Candidata para preprocesamiento y clustering
+Segmentation,False,"Etiqueta externa, no usar para clustering"

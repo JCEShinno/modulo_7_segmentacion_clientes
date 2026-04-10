@@ -1,0 +1,4 @@
+algoritmo,n_clusters,silhouette,observaciones_ruido_pct
+K-Means,3,0.1950505939475537,0.0
+Jerárquico,3,0.16800998819312374,0.0
+DBSCAN,1,,0.017891130567186907
